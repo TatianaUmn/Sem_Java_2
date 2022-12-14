@@ -1,0 +1,26 @@
+дек. 13, 2022 9:17:53 PM SemTwoTaskTwo BubbleSort
+INFO: [21, 72, 86, 96, 85, 65, 2]
+дек. 13, 2022 9:17:53 PM SemTwoTaskTwo BubbleSort
+INFO: [21, 72, 86, 85, 96, 65, 2]
+дек. 13, 2022 9:17:53 PM SemTwoTaskTwo BubbleSort
+INFO: [21, 72, 86, 85, 65, 96, 2]
+дек. 13, 2022 9:17:53 PM SemTwoTaskTwo BubbleSort
+INFO: [21, 72, 86, 85, 65, 2, 96]
+дек. 13, 2022 9:17:53 PM SemTwoTaskTwo BubbleSort
+INFO: [21, 72, 85, 86, 65, 2, 96]
+дек. 13, 2022 9:17:53 PM SemTwoTaskTwo BubbleSort
+INFO: [21, 72, 85, 65, 86, 2, 96]
+дек. 13, 2022 9:17:53 PM SemTwoTaskTwo BubbleSort
+INFO: [21, 72, 85, 65, 2, 86, 96]
+дек. 13, 2022 9:17:53 PM SemTwoTaskTwo BubbleSort
+INFO: [21, 72, 65, 85, 2, 86, 96]
+дек. 13, 2022 9:17:53 PM SemTwoTaskTwo BubbleSort
+INFO: [21, 72, 65, 2, 85, 86, 96]
+дек. 13, 2022 9:17:53 PM SemTwoTaskTwo BubbleSort
+INFO: [21, 65, 72, 2, 85, 86, 96]
+дек. 13, 2022 9:17:53 PM SemTwoTaskTwo BubbleSort
+INFO: [21, 65, 2, 72, 85, 86, 96]
+дек. 13, 2022 9:17:53 PM SemTwoTaskTwo BubbleSort
+INFO: [21, 2, 65, 72, 85, 86, 96]
+дек. 13, 2022 9:17:53 PM SemTwoTaskTwo BubbleSort
+INFO: [2, 21, 65, 72, 85, 86, 96]
