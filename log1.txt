@@ -1,0 +1,8 @@
+дек. 14, 2022 8:39:29 PM SemTwoTaskOneDz writer
+INFO: Работает метод writer
+дек. 14, 2022 8:39:29 PM SemTwoTaskOneDz getFiles
+INFO: Работает метод getFiles
+дек. 14, 2022 8:39:29 PM SemTwoTaskOneDz getFiles
+WARNING: Файлы не найдены в этой папке
+дек. 14, 2022 8:39:29 PM SemTwoTaskOneDz writer
+WARNING: В предыдущем методе вернул null
